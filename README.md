@@ -177,6 +177,7 @@ The initial processor datapath is organized around the following major blocks:
 
 ---
 ## 🔨 Development Methodology
+
 The processor is being developed incrementally rather than as a single RTL block.
 Architecture
      ↓
@@ -194,6 +195,7 @@ Synthesis
      ↓
 ASIC Physical Implementation
 Each major RTL block will be verified independently before being integrated into the processor.
+
 ---
 ## 📂 Project Structure
 
