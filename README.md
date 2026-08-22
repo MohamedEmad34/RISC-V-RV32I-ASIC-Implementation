@@ -82,6 +82,7 @@ The project aims to demonstrate practical experience in:
 
 The first version of the processor will use a simple **single-cycle RV32I architecture**.
 
+
 | Parameter | Specification |
 |---|---|
 | Architecture | RISC-V |
@@ -137,7 +138,8 @@ JAL
 ---
 ## 🧩 Processor Architecture
 
-The initial processor datapath is organized around the following major blocks: 
+The initial processor datapath is organized around the following major blocks:
+
                   ┌─────────────────────┐
                   │       PC            │
                   └──────────┬──────────┘
