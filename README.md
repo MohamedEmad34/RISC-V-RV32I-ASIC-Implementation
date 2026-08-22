@@ -96,6 +96,7 @@ The first version of the processor will use a simple **single-cycle RV32I archit
 | Target Technology | FreePDK45 / NangateOpenCellLibrary |
 | Final Target | GDSII |
 
+
 ---
 
 ## 📚 Supported Instructions
@@ -171,6 +172,7 @@ The initial processor datapath is organized around the following major blocks:
                                         │
                                         ▼
                                   Register File
+
 ---
 ## 🔨 Development Methodology
 The processor is being developed incrementally rather than as a single RTL block.
