@@ -26,8 +26,8 @@ The project is being developed step-by-step with a focus on both **digital desig
 | Architecture Specification | ✅ |
 | ISA Definition | ✅ |
 | Datapath Definition | ✅ |
-| ALU Design | 🚧 |
-| ALU Verification | ⏳ |
+| ALU Design | ✅ |
+| ALU Verification | ✅ |
 | Register File | ⏳ |
 | Instruction Decoder | ⏳ |
 | Immediate Generator | ⏳ |
