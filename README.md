@@ -198,7 +198,7 @@ Each major RTL block will be verified independently before being integrated into
 
 ---
 ## 📂 Project Structure
-
+```text
 RISC-V-RV32I-ASIC-Implementation/
 │
 ├── RTL/
@@ -248,7 +248,7 @@ RISC-V-RV32I-ASIC-Implementation/
 ├── docs/
 │
 └── README.md
-
+```
 
 ---
 ## 🛠️ Tools
