@@ -196,6 +196,7 @@ ASIC Physical Implementation
 Each major RTL block will be verified independently before being integrated into the processor.
 ---
 ## 📂 Project Structure
+
 RISC-V-RV32I-ASIC-Implementation/
 │
 ├── RTL/
@@ -245,6 +246,7 @@ RISC-V-RV32I-ASIC-Implementation/
 ├── docs/
 │
 └── README.md
+
 ---
 ## 🛠️ Tools
 | Tool                     | Purpose                       |
